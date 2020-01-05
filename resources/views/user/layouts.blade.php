@@ -182,7 +182,7 @@
 <!-- END CONTAINER -->
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
-    <div class="page-footer-inner"> Copyright &copy; 2017 - 2019 <a href="http://ss.777yun.top" target="_blank">蜂巢3.0</a> {{config('version.name')}} </div>
+    <div class="page-footer-inner"> Copyright &copy; 2017 - 2019 <a href="https://ss.777yun.top" target="_blank">蜂巢3.0</a> {{config('version.name')}} </div>
     <div class="scroll-to-top">
         <i class="icon-arrow-up"></i>
     </div>
